@@ -14,11 +14,11 @@ Cybersecurity graduate — Abiola Ajimobi Technical University, Ibadan, Nigeria
 
 ### 🔧 Featured Work
 
-**[Sankofa Digital — Penetration Test](#)**
-Full engagement chain: SQL injection → JWT `alg:none` bypass → SSRF → IMDSv1 credential theft. Formal writeup with findings and remediation.
-
 **[Recon Engine](#)**
 Python reconnaissance engine — UBI Advanced Stage project. 45 passing fixture tests, 16-deliverable submission package, live discovery chain executed against an authorized lab target (foothold flag captured).
+
+**[Sankofa Digital — Penetration Test](https://github.com/adeyemisodiq/sankofa-legacy-admin-pentest)**
+Full engagement chain: SQL injection → JWT `alg:none` bypass → SSRF → IMDSv1 credential theft. Formal writeup with findings and remediation.
 
 **[PasswordStore Smart Contract Audit](#)**
 Security audit — 2 High-severity findings (on-chain password visibility, missing access control) + 1 Informational. Formatted report included.
