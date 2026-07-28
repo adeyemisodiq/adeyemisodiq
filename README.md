@@ -14,7 +14,7 @@ Cybersecurity graduate — Abiola Ajimobi Technical University, Ibadan, Nigeria
 
 ### 🔧 Featured Work
 
-**[Recon Engine](#)**
+**[Recon Engine](https://github.com/adeyemisodiq/recon-engine-)**
 Python reconnaissance engine — UBI Advanced Stage project. 45 passing fixture tests, 16-deliverable submission package, live discovery chain executed against an authorized lab target (foothold flag captured).
 
 **[Sankofa Digital — Penetration Test](https://github.com/adeyemisodiq/sankofa-legacy-admin-pentest)**
